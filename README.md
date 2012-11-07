@@ -1,4 +1,4 @@
-CodeIgniter2-Dompdf-Library
+CodeIgniter2.0-Dompdf-Library
 ===========================
 
 Create pdf document using Dompdf
