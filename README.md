@@ -3,7 +3,8 @@ CodeIgniter2.0-Dompdf-Library
 
 Create pdf document using Dompdf.
 
-Files:
+Files
+-------------------------------------
 1. pdf_report.php -> in controllers folder (this is example controller file)
 2. Dompdf_lib.php -> in libraries folder (this is dompdf library file)
 3. pdf-report.php -> in views folder (this is example view file)
